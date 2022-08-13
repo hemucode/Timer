@@ -1,0 +1,140 @@
+{
+   "alarmPage_add_new_alarm": {
+      "message": "添加新闹钟"
+   },
+   "alarmPage_edit_alarmName": {
+      "message": "姓名"
+   },
+   "alarmPage_edit_date": {
+      "message": "日期"
+   },
+   "alarmPage_edit_hours": {
+      "message": "小时"
+   },
+   "alarmPage_edit_minutes": {
+      "message": "分钟"
+   },
+   "alarmPage_edit_save": {
+      "message": "保存更改"
+   },
+   "alarmPage_edit_seconds": {
+      "message": "秒"
+   },
+   "alarmPage_edit_snooze": {
+      "message": "设置贪睡"
+   },
+   "alarmPage_edit_sound": {
+      "message": "声音"
+   },
+   "alarmPage_edit_validation": {
+      "message": "必须至少选择一天。"
+   },
+   "alarmPage_repeat_weekly": {
+      "message": "每周重复一次"
+   },
+   "alarm_tooltip_days": {
+      "message": "天"
+   },
+   "alarm_tooltip_from_now": {
+      "message": "现在起"
+   },
+   "alarm_tooltip_hours": {
+      "message": "小时"
+   },
+   "alarm_tooltip_minutes": {
+      "message": "分钟"
+   },
+   "alarm_tooltip_one": {
+      "message": "警报设置为"
+   },
+   "and_text": {
+      "message": "和"
+   },
+   "aside_alarm": {
+      "message": "警报"
+   },
+   "aside_stopwatch": {
+      "message": "跑表"
+   },
+   "aside_timer": {
+      "message": "定时器"
+   },
+   "browser_action_title": {
+      "message": "闹钟、定时器和秒表"
+   },
+   "chrome_extension_description": {
+      "message": "时尚的计时器与 Microsoft Edge 的秒表和闹钟相结合！"
+   },
+   "chrome_extension_name": {
+      "message": "定时器"
+   },
+   "close": {
+      "message": "关"
+   },
+   "disabled": {
+      "message": "禁用"
+   },
+   "dismiss_button": {
+      "message": "解雇"
+   },
+   "fiveMinutes": {
+      "message": "5 分钟"
+   },
+   "oneHour": {
+      "message": "1 小时"
+   },
+   "snooze_button": {
+      "message": "打盹"
+   },
+   "snooze_edit_title": {
+      "message": "贪睡时间"
+   },
+   "stopwatch_lap": {
+      "message": "圈"
+   },
+   "stopwatch_reset": {
+      "message": "重置"
+   },
+   "stopwatch_resume": {
+      "message": "恢复"
+   },
+   "stopwatch_start": {
+      "message": "开始"
+   },
+   "stopwatch_stop": {
+      "message": "停止"
+   },
+   "tenMinutes": {
+      "message": "10分钟"
+   },
+   "thirtyMinutes": {
+      "message": "30分钟"
+   },
+   "timerPage_add_new_timer": {
+      "message": "添加新计时器"
+   },
+   "timerPage_edit_hours": {
+      "message": "小时"
+   },
+   "timerPage_edit_minutes": {
+      "message": "分钟"
+   },
+   "timerPage_edit_save": {
+      "message": "保存更改"
+   },
+   "timerPage_edit_seconds": {
+      "message": "秒"
+   },
+   "timerPage_edit_sound": {
+      "message": "声音"
+   },
+   "timerPage_edit_timerName": {
+      "message": "计时器名称"
+   },
+   "timerPage_edit_validation": {
+      "message": "最短时间应该是一分钟。"
+   },
+   "twentyMinutes": {
+      "message": "20分钟"
+   }
+}

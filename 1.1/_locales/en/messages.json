@@ -1,0 +1,140 @@
+{
+   "alarmPage_add_new_alarm": {
+      "message": "add a new alarm"
+   },
+   "alarmPage_edit_alarmName": {
+      "message": "name"
+   },
+   "alarmPage_edit_date": {
+      "message": "date"
+   },
+   "alarmPage_edit_hours": {
+      "message": "hours"
+   },
+   "alarmPage_edit_minutes": {
+      "message": "minutes"
+   },
+   "alarmPage_edit_save": {
+      "message": "save change"
+   },
+   "alarmPage_edit_seconds": {
+      "message": "seconds"
+   },
+   "alarmPage_edit_snooze": {
+      "message": "set snooze"
+   },
+   "alarmPage_edit_sound": {
+      "message": "sound"
+   },
+   "alarmPage_edit_validation": {
+      "message": "At least one day must be selected."
+   },
+   "alarmPage_repeat_weekly": {
+      "message": "Repeat weekly"
+   },
+   "alarm_tooltip_days": {
+      "message": "days"
+   },
+   "alarm_tooltip_from_now": {
+      "message": "from now"
+   },
+   "alarm_tooltip_hours": {
+      "message": "hours"
+   },
+   "alarm_tooltip_minutes": {
+      "message": "minutes"
+   },
+   "alarm_tooltip_one": {
+      "message": "Alarm set for"
+   },
+   "and_text": {
+      "message": "and"
+   },
+   "aside_alarm": {
+      "message": "Alarm"
+   },
+   "aside_stopwatch": {
+      "message": "Stopwatch"
+   },
+   "aside_timer": {
+      "message": "Timer"
+   },
+   "browser_action_title": {
+      "message": "Alarm & Timer & Stopwatch"
+   },
+   "chrome_extension_description": {
+      "message": "Stylish timer combined with stopwatch and alarm for  Microsoft Edge!"
+   },
+   "chrome_extension_name": {
+      "message": "Timer"
+   },
+   "close": {
+      "message": "close"
+   },
+   "disabled": {
+      "message": "disabled"
+   },
+   "dismiss_button": {
+      "message": "Dismiss"
+   },
+   "fiveMinutes": {
+      "message": "5 minutes"
+   },
+   "oneHour": {
+      "message": "1 hour"
+   },
+   "snooze_button": {
+      "message": "Snooze"
+   },
+   "snooze_edit_title": {
+      "message": "Snooze Time"
+   },
+   "stopwatch_lap": {
+      "message": "lap"
+   },
+   "stopwatch_reset": {
+      "message": "reset"
+   },
+   "stopwatch_resume": {
+      "message": "resume"
+   },
+   "stopwatch_start": {
+      "message": "start"
+   },
+   "stopwatch_stop": {
+      "message": "stop"
+   },
+   "tenMinutes": {
+      "message": "10 minutes"
+   },
+   "thirtyMinutes": {
+      "message": "30 minutes"
+   },
+   "timerPage_add_new_timer": {
+      "message": "add a new timer"
+   },
+   "timerPage_edit_hours": {
+      "message": "hours"
+   },
+   "timerPage_edit_minutes": {
+      "message": "minutes"
+   },
+   "timerPage_edit_save": {
+      "message": "save change"
+   },
+   "timerPage_edit_seconds": {
+      "message": "seconds"
+   },
+   "timerPage_edit_sound": {
+      "message": "sound"
+   },
+   "timerPage_edit_timerName": {
+      "message": "timer name"
+   },
+   "timerPage_edit_validation": {
+      "message": "Minimum time should be a minute."
+   },
+   "twentyMinutes": {
+      "message": "20 minutes"
+   }
+}

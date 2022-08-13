@@ -1,0 +1,140 @@
+{
+   "alarmPage_add_new_alarm": {
+      "message": "새 알람 추가"
+   },
+   "alarmPage_edit_alarmName": {
+      "message": "이름"
+   },
+   "alarmPage_edit_date": {
+      "message": "데이트"
+   },
+   "alarmPage_edit_hours": {
+      "message": "시간"
+   },
+   "alarmPage_edit_minutes": {
+      "message": "분"
+   },
+   "alarmPage_edit_save": {
+      "message": "변경 사항 저장"
+   },
+   "alarmPage_edit_seconds": {
+      "message": "초"
+   },
+   "alarmPage_edit_snooze": {
+      "message": "스누즈 설정"
+   },
+   "alarmPage_edit_sound": {
+      "message": "소리"
+   },
+   "alarmPage_edit_validation": {
+      "message": "하루 이상을 선택해야 합니다."
+   },
+   "alarmPage_repeat_weekly": {
+      "message": "매주 반복"
+   },
+   "alarm_tooltip_days": {
+      "message": "날"
+   },
+   "alarm_tooltip_from_now": {
+      "message": "지금부터"
+   },
+   "alarm_tooltip_hours": {
+      "message": "시간"
+   },
+   "alarm_tooltip_minutes": {
+      "message": "분"
+   },
+   "alarm_tooltip_one": {
+      "message": "알람 설정"
+   },
+   "and_text": {
+      "message": "그리고"
+   },
+   "aside_alarm": {
+      "message": "경보"
+   },
+   "aside_stopwatch": {
+      "message": "스톱워치"
+   },
+   "aside_timer": {
+      "message": "시간제 노동자"
+   },
+   "browser_action_title": {
+      "message": "알람 및 타이머 및 스톱워치"
+   },
+   "chrome_extension_description": {
+      "message": "Microsoft Edge용 스톱워치 및 알람이 결합된 세련된 타이머!"
+   },
+   "chrome_extension_name": {
+      "message": "시간제 노동자"
+   },
+   "close": {
+      "message": "닫다"
+   },
+   "disabled": {
+      "message": "장애가 있는"
+   },
+   "dismiss_button": {
+      "message": "해고하다"
+   },
+   "fiveMinutes": {
+      "message": "5 분"
+   },
+   "oneHour": {
+      "message": "1 시간"
+   },
+   "snooze_button": {
+      "message": "선잠"
+   },
+   "snooze_edit_title": {
+      "message": "스누즈 시간"
+   },
+   "stopwatch_lap": {
+      "message": "무릎"
+   },
+   "stopwatch_reset": {
+      "message": "초기화"
+   },
+   "stopwatch_resume": {
+      "message": "이력서"
+   },
+   "stopwatch_start": {
+      "message": "시작"
+   },
+   "stopwatch_stop": {
+      "message": "멈추다"
+   },
+   "tenMinutes": {
+      "message": "10 분"
+   },
+   "thirtyMinutes": {
+      "message": "30 분"
+   },
+   "timerPage_add_new_timer": {
+      "message": "새 타이머 추가"
+   },
+   "timerPage_edit_hours": {
+      "message": "시간"
+   },
+   "timerPage_edit_minutes": {
+      "message": "분"
+   },
+   "timerPage_edit_save": {
+      "message": "변경 사항 저장"
+   },
+   "timerPage_edit_seconds": {
+      "message": "초"
+   },
+   "timerPage_edit_sound": {
+      "message": "소리"
+   },
+   "timerPage_edit_timerName": {
+      "message": "타이머 이름"
+   },
+   "timerPage_edit_validation": {
+      "message": "최소 시간은 1분이어야 합니다."
+   },
+   "twentyMinutes": {
+      "message": "20 분"
+   }
+}

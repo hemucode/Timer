@@ -1,0 +1,140 @@
+{
+   "alarmPage_add_new_alarm": {
+      "message": "新しいアラームを追加する"
+   },
+   "alarmPage_edit_alarmName": {
+      "message": "名前"
+   },
+   "alarmPage_edit_date": {
+      "message": "日にち"
+   },
+   "alarmPage_edit_hours": {
+      "message": "時間"
+   },
+   "alarmPage_edit_minutes": {
+      "message": "分"
+   },
+   "alarmPage_edit_save": {
+      "message": "変更を保存する"
+   },
+   "alarmPage_edit_seconds": {
+      "message": "秒"
+   },
+   "alarmPage_edit_snooze": {
+      "message": "スヌーズを設定する"
+   },
+   "alarmPage_edit_sound": {
+      "message": "音"
+   },
+   "alarmPage_edit_validation": {
+      "message": "少なくとも 1 日を選択する必要があります。"
+   },
+   "alarmPage_repeat_weekly": {
+      "message": "毎週繰り返す"
+   },
+   "alarm_tooltip_days": {
+      "message": "日々"
+   },
+   "alarm_tooltip_from_now": {
+      "message": "今から"
+   },
+   "alarm_tooltip_hours": {
+      "message": "時間"
+   },
+   "alarm_tooltip_minutes": {
+      "message": "分"
+   },
+   "alarm_tooltip_one": {
+      "message": "に設定されたアラーム"
+   },
+   "and_text": {
+      "message": "と"
+   },
+   "aside_alarm": {
+      "message": "警報"
+   },
+   "aside_stopwatch": {
+      "message": "ストップウォッチ"
+   },
+   "aside_timer": {
+      "message": "タイマー"
+   },
+   "browser_action_title": {
+      "message": "アラーム＆タイマー＆ストップウォッチ"
+   },
+   "chrome_extension_description": {
+      "message": "Microsoft Edge のストップウォッチとアラームを組み合わせたスタイリッシュなタイマー!"
+   },
+   "chrome_extension_name": {
+      "message": "タイマー"
+   },
+   "close": {
+      "message": "近い"
+   },
+   "disabled": {
+      "message": "無効"
+   },
+   "dismiss_button": {
+      "message": "解散"
+   },
+   "fiveMinutes": {
+      "message": "5分"
+   },
+   "oneHour": {
+      "message": "1時間"
+   },
+   "snooze_button": {
+      "message": "スヌーズ"
+   },
+   "snooze_edit_title": {
+      "message": "スヌーズ時間"
+   },
+   "stopwatch_lap": {
+      "message": "ラップ"
+   },
+   "stopwatch_reset": {
+      "message": "リセット"
+   },
+   "stopwatch_resume": {
+      "message": "履歴書"
+   },
+   "stopwatch_start": {
+      "message": "始める"
+   },
+   "stopwatch_stop": {
+      "message": "止まる"
+   },
+   "tenMinutes": {
+      "message": "10分"
+   },
+   "thirtyMinutes": {
+      "message": "30分"
+   },
+   "timerPage_add_new_timer": {
+      "message": "新しいタイマーを追加する"
+   },
+   "timerPage_edit_hours": {
+      "message": "時間"
+   },
+   "timerPage_edit_minutes": {
+      "message": "分"
+   },
+   "timerPage_edit_save": {
+      "message": "変更を保存する"
+   },
+   "timerPage_edit_seconds": {
+      "message": "秒"
+   },
+   "timerPage_edit_sound": {
+      "message": "音"
+   },
+   "timerPage_edit_timerName": {
+      "message": "タイマー名"
+   },
+   "timerPage_edit_validation": {
+      "message": "最小時間は 1 分です。"
+   },
+   "twentyMinutes": {
+      "message": "20分"
+   }
+}

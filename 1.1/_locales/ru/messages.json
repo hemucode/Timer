@@ -1,0 +1,140 @@
+{
+   "alarmPage_add_new_alarm": {
+      "message": "добавить новый будильник"
+   },
+   "alarmPage_edit_alarmName": {
+      "message": "имя"
+   },
+   "alarmPage_edit_date": {
+      "message": "свидание"
+   },
+   "alarmPage_edit_hours": {
+      "message": "часы"
+   },
+   "alarmPage_edit_minutes": {
+      "message": "минуты"
+   },
+   "alarmPage_edit_save": {
+      "message": "сохранить изменения"
+   },
+   "alarmPage_edit_seconds": {
+      "message": "секунды"
+   },
+   "alarmPage_edit_snooze": {
+      "message": "установить повтор"
+   },
+   "alarmPage_edit_sound": {
+      "message": "звук"
+   },
+   "alarmPage_edit_validation": {
+      "message": "Необходимо выбрать хотя бы один день."
+   },
+   "alarmPage_repeat_weekly": {
+      "message": "Повторять еженедельно"
+   },
+   "alarm_tooltip_days": {
+      "message": "дни"
+   },
+   "alarm_tooltip_from_now": {
+      "message": "отныне"
+   },
+   "alarm_tooltip_hours": {
+      "message": "часы"
+   },
+   "alarm_tooltip_minutes": {
+      "message": "минуты"
+   },
+   "alarm_tooltip_one": {
+      "message": "Будильник установлен на"
+   },
+   "and_text": {
+      "message": "а также"
+   },
+   "aside_alarm": {
+      "message": "Тревога"
+   },
+   "aside_stopwatch": {
+      "message": "Секундомер"
+   },
+   "aside_timer": {
+      "message": "Таймер"
+   },
+   "browser_action_title": {
+      "message": "Будильник, таймер и секундомер"
+   },
+   "chrome_extension_description": {
+      "message": "Стильный таймер в сочетании с секундомером и будильником для Microsoft Edge!"
+   },
+   "chrome_extension_name": {
+      "message": "Таймер"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "disabled": {
+      "message": "инвалид"
+   },
+   "dismiss_button": {
+      "message": "Увольнять"
+   },
+   "fiveMinutes": {
+      "message": "5 минут"
+   },
+   "oneHour": {
+      "message": "1 час"
+   },
+   "snooze_button": {
+      "message": "Вздремнуть"
+   },
+   "snooze_edit_title": {
+      "message": "Время повтора"
+   },
+   "stopwatch_lap": {
+      "message": "колени"
+   },
+   "stopwatch_reset": {
+      "message": "перезагрузить"
+   },
+   "stopwatch_resume": {
+      "message": "продолжить"
+   },
+   "stopwatch_start": {
+      "message": "Начало"
+   },
+   "stopwatch_stop": {
+      "message": "остановка"
+   },
+   "tenMinutes": {
+      "message": "10 минут"
+   },
+   "thirtyMinutes": {
+      "message": "30 минут"
+   },
+   "timerPage_add_new_timer": {
+      "message": "добавить новый таймер"
+   },
+   "timerPage_edit_hours": {
+      "message": "часы"
+   },
+   "timerPage_edit_minutes": {
+      "message": "минуты"
+   },
+   "timerPage_edit_save": {
+      "message": "сохранить изменения"
+   },
+   "timerPage_edit_seconds": {
+      "message": "секунды"
+   },
+   "timerPage_edit_sound": {
+      "message": "звук"
+   },
+   "timerPage_edit_timerName": {
+      "message": "имя таймера"
+   },
+   "timerPage_edit_validation": {
+      "message": "Минимальное время должно быть минута."
+   },
+   "twentyMinutes": {
+      "message": "20 минут"
+   }
+}
